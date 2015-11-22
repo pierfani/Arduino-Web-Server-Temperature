@@ -147,7 +147,7 @@ void loop() {
           client.println("<br />");
           client.println("Realizzato da Pierantonio Fanigliulo");
           client.println("<br />");
-          client.println("<a href=\"http://www.pierfani.it/files/WebServerDS18B20.ino\"> Sketch</a>");
+          client.println("<a href=\"https://github.com/pierfani/Arduino-Web-Server-Temperature"> Sketch on GitHub</a>");
         
          client.println("</html>");
           break;
